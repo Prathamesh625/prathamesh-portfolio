@@ -53,7 +53,7 @@ const projects: Project[] = [
       "React + TypeScript application with Appwrite backend for authentication, file storage, and real-time updates. Features explore page, likes, saves, and responsive UI with smooth navigation.",
     tech: ["React", "TypeScript", "TailwindCSS", "Appwrite", "React Query"],
     github: "https://github.com/Prathamesh625/social_media_app.git",
-    demo: "https://social-media-app-phi-one.vercel.app/",
+    demo: "https://social-media-app-eight-flame.vercel.app/",
   },
   {
     title: "Portfolio Website",
