@@ -49,19 +49,19 @@ const Contact: React.FC = () => {
         </form>
         <div className="flex gap-4 justify-center">
           <Link
-            href="https://github.com/yourusername"
+            href="https://github.com/Prathamesh625"
             className="hover:text-white transition"
           >
             <Github className="w-5 h-5" />
           </Link>
           <Link
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/thoratprathamesh625/"
             className="hover:text-white transition"
           >
             <Linkedin className="w-5 h-5" />
           </Link>
           <Link
-            href="mailto:your@email.com"
+            href="mailto:thoratprathamesh052@gmail.com"
             className="hover:text-white transition"
           >
             <Mail className="w-5 h-5" />
