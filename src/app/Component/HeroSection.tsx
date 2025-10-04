@@ -47,7 +47,7 @@ const Hero = () => {
             <ArrowRight width={15} />
           </Link>
           <Link
-            href="https://www.google.com/"
+            href="https://www.linkedin.com/in/thoratprathamesh625/"
             className="px-5 py-2.5 bg-[#171717] text-white rounded-md text-sm border  border-neutral-800 flex  gap-4 items-center transform hover:scale-95 duration-200"
           >
             <LinkedinIcon width={15} />
